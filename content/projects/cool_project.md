@@ -5,7 +5,7 @@ weight = 1
 template = "page.html"
 
 [taxonomies]
-tags = ["meta"]
+tags = ["Oracle"]
 
 [extra]
 local_image = "img/profile.webp"

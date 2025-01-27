@@ -1,7 +1,7 @@
-base_url = "https://YOUR_URL.TLD"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://ogobrecht.com"
+title = "Ottmar's Notes"
+description = "Mainly about Oracle APEX and PL/SQL"
+author = "Ottmar Gobrecht"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
@@ -164,13 +164,13 @@ serve_local_mermaid = true
 
 # Show links to previous and next articles at the bottom of posts.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
-show_previous_next_article_links = false
+show_previous_next_article_links = true
 
 # Invert order of the links to previous and next articles at the bottom of posts.
 # By default, next articles are on the left side of the page and previous articles are on the right side.
 # To reverse the order (next articles on the right and previous articles on the left), set it to true.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
-invert_previous_next_article_links = false
+invert_previous_next_article_links = true
 
 # Whether the navigation for previous/next article should match the full width of the site (same as the navigation bar at the top) or the article width.
 # To match the navigation bar at the top, set it to true.
@@ -255,13 +255,12 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 # Social media links for the footer.
 # Built-in icons: https://github.com/welpo/tabi/tree/main/static/social_icons
 # To use a custom icon, add it to your site's `static/social_icons` directory.
-# socials = [
-#     { name = "github", url = "https://github.com/welpo/", icon = "github" },
-#     { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
-#     { name = "instagram", url = "https://instagram.com/oskerwyld", icon = "instagram" },
-#     { name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
-#     { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
-# ]
+socials = [
+    { name = "GitHub", url = "https://github.com/ogobrecht", icon = "github" },
+    { name = "Bluesky", url = "https://bsky.app/profile/ogobrecht.com", icon = "bluesky" },
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/ogobrecht/", icon = "linkedin" },
+    { name = "Email", url = "mailto:ottmar.gobrecht@gmail.com", icon = "email" },
+]
 
 # Fediverse profile.
 # Adds metadata to feature the author's profile in Mastodon link previews.
