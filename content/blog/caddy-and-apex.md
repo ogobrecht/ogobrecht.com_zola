@@ -3,7 +3,7 @@ title = "Caddy Server - APEX behind a fully automated SSL proxy #JoelKallmanDay"
 date = "2024-10-16"
 description = "Forget self-signed certificates and browsers that complain about them"
 slug = "caddy-server-and-apex-joel-kallman-day"
-aliases = ["posts/2024-10-16-caddy-server-and-apex--joel-kallman-day"]
+aliases = ["/posts/2024-10-16-caddy-server-and-apex--joel-kallman-day/"]
 
 [taxonomies]
 tags = ["Oracle", "APEX", "SSL", "proxy", "Caddy"]

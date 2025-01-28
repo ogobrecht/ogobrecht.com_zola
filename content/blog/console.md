@@ -3,7 +3,7 @@ title = "Yet another Oracle DB logging tool: Console"
 date = "2021-10-04"
 description = "Easy to install, works without context and special rights on administrative views, brings APEX integration with it"
 slug = "yet-another-oracle-db-logging-tool-console"
-aliases = ["posts/2021-10-04-yet-another-oracle-db-logging-tool-console"]
+aliases = ["/posts/2021-10-04-yet-another-oracle-db-logging-tool-console/"]
 
 [taxonomies]
 tags = ["Oracle", "APEX", "PL/SQL", "Log", "Debug", "Instrumentation"]

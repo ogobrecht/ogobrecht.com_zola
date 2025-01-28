@@ -3,7 +3,7 @@ title = "Create fast insert scripts"
 date = "2021-01-31"
 description = "PL/SQL Export Utilities are now able to export table data as insert scripts"
 slug = "create-fast-insert-scripts"
-aliases = ["posts/2021-01-31-create-fast-insert-scripts"]
+aliases = ["/posts/2021-01-31-create-fast-insert-scripts/"]
 
 [taxonomies]
 tags = ["Oracle", "Script", "Generator"]

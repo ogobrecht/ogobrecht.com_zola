@@ -3,7 +3,7 @@ title = "Generate APEX plug-ins on the command line"
 date = "2021-10-13"
 description = "Instead of uploading new files to a plug-in, we generate the plug-in via a template on the command line and install it"
 slug = "generate-apex-plug-ins-on-the-command-line"
-aliases = ["posts/2021-10-13-generate-apex-plug-ins-on-the-command-line"]
+aliases = ["/posts/2021-10-13-generate-apex-plug-ins-on-the-command-line/"]
 
 [taxonomies]
 tags = ["Oracle", "APEX", "Plug-in", "Node.js", "npm", "Script"]
