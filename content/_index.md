@@ -7,4 +7,4 @@ section_path = "blog/_index.md"
 max_posts = 5
 +++
 
-My name is Ottmar Gobrecht and I run this site to give back a little bit what I have received before through the developer community. I write mainly about Oracle APEX and PL/SQL. For those who know me personally: Yes, the picture is a bit older ;-)
+My name is Ottmar Gobrecht and I run this site to give back a little of what I have previously received from the development community. I mainly write about Oracle APEX and PL/SQL. For those who know me personally: Yes, the picture is a bit older ;-)
