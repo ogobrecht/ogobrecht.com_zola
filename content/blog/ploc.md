@@ -9,6 +9,8 @@ aliases = ["/posts/2019-01-10-ploc-plsql-code-to-doc-converter/"]
 tags = ["Oracle", "PL/SQL", "Generator", "Converter", "Markdown", "npm"]
 +++
 
+![Screenshot with a source/Markdown/HTML comparison](/img/ploc.png)
+
 Some months ago I had to write a README file with Markdown syntax for a PL/SQL open source project. I changed function and procedure parameters of the package often during the implementation. Therefore, maintaining the documentation was no fun in the beginning. Maybe you know this from your own (payed) projects ;-)
 
 Normally in the business world I see minimalistic comments in the code and a dedicated documentation independent of the code. As you can imagine, the latter is sometimes - let's say "out of date", if it exists at all ...
