@@ -1,17 +1,17 @@
 +++
 title = "PLOC"
 description = "Node.js CLI to convert PL/SQL into Markdown docs"
-weight = 4
+weight = 93
 template = "page.html"
 
 [taxonomies]
-tags = ["Oracle", "PL/SQL", "Markdown", "Doc", "Converter", "Generator"]
+tags = ["Oracle", "PL/SQL", "Markdown", "Doc", "Converter", "Generator", "Node.js"]
 
 [extra]
 local_image = "/img/ploc-preview.png"
 +++
 
-## Node.js CLI to convert PL/SQL into Markdown docs
+## Node.js CLI to Convert PL/SQL Into Markdown Docs
 
 Published 2019
 

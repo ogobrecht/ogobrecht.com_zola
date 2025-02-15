@@ -1,7 +1,7 @@
 +++
 title = "Data Model Explorer"
 description = "Visually explore data models with an APEX app"
-weight = 1
+weight = 90
 template = "page.html"
 
 [taxonomies]
@@ -11,7 +11,7 @@ tags = ["Oracle", "APEX", "App", "Data model", "PL/SQL"]
 local_image = "/img/data-model-explorer-square.png"
 +++
 
-## Visually explore data models with an APEX app
+## Visually Explore Data Models With an APEX App
 
 Published 2024
 

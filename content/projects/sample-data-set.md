@@ -1,17 +1,17 @@
 +++
 title = "Sample Data Sets"
 description = "Common Oracle data sets for install in one schema"
-weight = 3
+weight = 92
 template = "page.html"
 
 [taxonomies]
-tags = ["Oracle", "Sample Data", "Data model"]
+tags = ["Oracle", "Sample data", "Data model"]
 
 [extra]
 local_image = "/img/neues-bild-aussuchen-quadrat.jpg"
 +++
 
-## Common Oracle data sets for install in one schema
+## Common Oracle Data Sets for Install in One Schema
 
 Published 2020
 

@@ -1,7 +1,7 @@
 +++
 title = "Console"
 description = "PL/SQL logging tool inspired by the JavaScript Console"
-weight = 2
+weight = 91
 template = "page.html"
 
 [taxonomies]
@@ -11,7 +11,7 @@ tags = ["Oracle", "PL/SQL", "Instrumentation", "Logger"]
 local_image = "/img/pete-nuij-m-AqW5QCxNQ-unsplash-preview.jpg"
 +++
 
-## PL/SQL logging tool inspired by the JavaScript Console
+## PL/SQL Logging Tool Inspired by the JavaScript Console
 
 Published 2021
 
