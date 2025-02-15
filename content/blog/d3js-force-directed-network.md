@@ -42,7 +42,7 @@ window.onload = function() {
 
 I found myself often fiddling around with the parameters of the physical simulation - change config, reload page, not amused, change config...
 
-Really annoying - even I know the implementation behind. So, the question was: What can I do for an easy configuration. My answer was after a while of thinking and trying out: A customization wizard with a live preview of the changes. The link to enter the wizard is shown when the debug mode is switched on or in APEX when the developer bar is shown - try it out in the example graph above.
+Really annoying - even I know the implementation behind. So, the question was: What can I do for an easy configuration. My answer was after a while of thinking and trying out: A customization wizard with a live preview of the changes. The link to enter the wizard is shown when the debug mode is switched on or in APEX when the developer bar is shown - try it out on the [getting started page of the API docs](https://ogobrecht.github.io/d3-force-apex-plugin/tutorial-1-getting-started.html).
 
 You can find the sources and more informations on [GitHub](https://github.com/ogobrecht/d3-force-apex-plugin) and a demo app on [apex.oracle.com](https://apex.oracle.com/pls/apex/f?p=18290:1).
 
