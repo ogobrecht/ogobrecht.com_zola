@@ -8,14 +8,14 @@ template = "page.html"
 tags = ["APEX", "Plug-in", "Network", "JavaScript", "D3.js", "Chart", "SVG"]
 
 [extra]
-local_image = "/img/neues-bild-aussuchen-quadrat.jpg"
+local_image = "/img/d3js-network-square.png"
 +++
 
 ## APEX Region Type Plug-in to Visualize Connections
 
 Published 2015
 
-![fixme](/img/neues-bild-aussuchen.jpg)
+![fixme](/img/d3js-force-directed-network.png)
 
 ### [View Source](https://github.com/ogobrecht/d3-force-apex-plugin){.centered-text}
 

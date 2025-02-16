@@ -21,7 +21,9 @@ Published 2016
 
 ## Features
 
-- xxx
+- Creates for each text area with the class markdown an own editor
+- Non input elements with a class markdown are rendered to HTML
+- Supports the APEX image substitution strings
 - More details on [GitHub...](https://github.com/ogobrecht/markdown-apex-plugin)
 
 ## Related Posts
